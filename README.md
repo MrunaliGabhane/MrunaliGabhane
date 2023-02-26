@@ -7,11 +7,17 @@
 
 - 🌱 I’m currently learning **React, Redux, MongoDB, etc**
 
-- 👨‍💻 All of my projects are available at [https://mrunaligabhane.github.io/](https://mrunaligabhane.github.io/)
 
-- 📫 How to reach me **mrunagabhane@gmail.com**
+- <img width="15px" src="https://cdn-icons-png.flaticon.com/512/534/534621.png" alt="Terminal Icon" /> I’m currently learning 🧑‍💻 **Full Stack Web-Development**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NoymNKYhExbh215o9-TVQ2v0_vFBJVre/view?usp=share_link](https://drive.google.com/file/d/1NoymNKYhExbh215o9-TVQ2v0_vFBJVre/view?usp=share_link)
+- <img width="15px" src="https://avatars.githubusercontent.com/u/61222534?s=200&v=4" alt="Masai Icon" /> I’m a Student at <a href="https://www.linkedin.com/school/masai-school/">**Masai**</a>
+
+- <img width="15px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Linkedin Icon" /> Join Me On Linkedin <a href="https://linkedin.com/in/mrunali-gabhane-456b2a232/">**Mrunali**</a>
+
+- <img width="13px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail Icon" /> How to reach me **mrunagabhane@gmail.com**
+ 
+- <img width="15px" src="https://cdn-icons-png.flaticon.com/512/2195/2195529.png" alt="Terminal Icon" > Know about my experiencest 📄 **<a href="https://drive.google.com/file/d/1NoymNKYhExbh215o9-TVQ2v0_vFBJVre/view?usp=share_link" target="blank">Resume</a>**</img>
+- <img width="15px" src="https://cdn-icons-png.flaticon.com/512/534/534621.png" alt="Terminal Icon" /> All of my projects are available at 🧑‍💻 **https://mrunaligabhane.github.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,8 +29,29 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrunaligabhane&show_icons=true&locale=en&layout=compact" alt="mrunaligabhane" /></p>
+<!--
+<p align="center">
+<a href="https://github.com/SutharShantanu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sutharshantanu&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrunaligabhane&show_icons=true&locale=en" alt="mrunaligabhane" /></p>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrunaligabhane&" alt="mrunaligabhane" /></p>
+
+<p>
+<a href="https://github.com/SutharShantanu/git_practice_assignmnet">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sutharshantanu&repo=git_practice_assignmnet&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats" />
+</a>
+<a href="https://github.com/SutharShantanu/-absurd-stage-2740">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sutharshantanu&repo=-absurd-stage-2740&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats" />
+</a>
+<a href="https://github.com/SutharShantanu/-fit-hook-8952">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sutharshantanu&repo=-fit-hook-8952&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats" />
+</a>
+<a href="https://github.com/SutharShantanu/JS101_Learning_Javascript">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=sutharshantanu&repo=JS101_Learning_Javascript&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/SutharShantanu"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SutharShantanu&theme=dracula" />
+</span></a> </p>-->
