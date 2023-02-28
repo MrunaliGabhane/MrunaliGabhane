@@ -17,7 +17,7 @@
 - <img width="13px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail Icon" /> How to reach me **mrunagabhane@gmail.com**
  
 - <img width="15px" src="https://cdn-icons-png.flaticon.com/512/2195/2195529.png" alt="Terminal Icon" > Know about my experiencest 📄 **<a href="https://drive.google.com/file/d/1NoymNKYhExbh215o9-TVQ2v0_vFBJVre/view?usp=share_link" target="blank">Resume</a>**</img>
-- <img width="15px" src="https://cdn-icons-png.flaticon.com/512/534/534621.png" alt="Terminal Icon" /> All of my projects are available at 🧑‍💻 **https://mrunaligabhane.github.io/**
+- <img width="15px" src="https://cdn-icons-png.flaticon.com/512/534/534621.png" alt="Terminal Icon" /> All of my projects are available at 🧑‍💻 **https://MrunaliGabhane.github.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,9 +31,9 @@
 
 
 <div align="center">
-  <a href="https://github.com/MrunaliGabhane/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MrunaliGabhane streak" src="https://streak-stats.demolab.com/?user=MrunaliGabhane&theme=monokai-metallian&hide_border=true"/>
-  </a>
+ 
+ [![GitHub Streak](https://streak-stats.demolab.com?user=MrunaliGabhane&hide_border=true)](https://git.io/streak-stats)
+ 
   <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=mrunaligabhane&show_icons=true&locale=en&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="github-readme-streak-stats" alt="MrunaliGabhane" />
   </a>
