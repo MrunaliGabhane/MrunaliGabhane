@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrunaligabhane" alt="mrunaligabhane" /></a> </p>
 
-- 🌱 I’m currently learning **React, Redux, MongoDB, etc**
+- 🌱 I’m currently learning *React, Redux, MongoDB, etc*
 
 
-- <img width="15px" src="https://cdn-icons-png.flaticon.com/512/534/534621.png" alt="Terminal Icon" /> I’m currently learning 🧑‍💻 **Full Stack Web-Development**
+- <img width="15px" src="https://cdn-icons-png.flaticon.com/512/534/534621.png" alt="Terminal Icon" /> I’m currently learning 🧑‍💻 *Full Stack Web-Development*
 
-- <img width="15px" src="https://avatars.githubusercontent.com/u/61222534?s=200&v=4" alt="Masai Icon" /> I’m a Student at <a href="https://www.linkedin.com/school/masai-school/">**Masai**</a>
+- <img width="15px" src="https://avatars.githubusercontent.com/u/61222534?s=200&v=4" alt="Masai Icon" /> I’m a Student at <a href="https://www.linkedin.com/school/masai-school/">*Masai*</a>
 
-- <img width="15px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Linkedin Icon" /> Join Me On Linkedin <a href="https://linkedin.com/in/mrunali-gabhane-456b2a232/">**Mrunali**</a>
+- <img width="15px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="Linkedin Icon" /> Join Me On Linkedin <a href="https://linkedin.com/in/mrunali-gabhane-456b2a232/">*Mrunali*</a>
 
-- <img width="13px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail Icon" /> How to reach me **mrunagabhane@gmail.com**
+- <img width="13px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="Gmail Icon" /> How to reach me *mrunagabhane@gmail.com*
  
 - <img width="15px" src="https://cdn-icons-png.flaticon.com/512/2195/2195529.png" alt="Terminal Icon" > Know about my experiencest 📄 **<a href="https://drive.google.com/file/d/1NoymNKYhExbh215o9-TVQ2v0_vFBJVre/view?usp=share_link" target="blank">Resume</a>**</img>
-- <img width="15px" src="https://cdn-icons-png.flaticon.com/512/534/534621.png" alt="Terminal Icon" /> All of my projects are available at 🧑‍💻 **https://MrunaliGabhane.github.io/**
+- <img width="15px" src="https://cdn-icons-png.flaticon.com/512/534/534621.png" alt="Terminal Icon" /> All of my projects are available at 🧑‍💻 *https://MrunaliGabhane.github.io/*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -55,11 +55,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrunaliGabhane" alt="MrunaliGabhane" /></a> </p>
 
-- 🌱 I’m currently learning **React,NodeJS**
+- 🌱 I’m currently learning *React,NodeJS*
 
-- 💬 Ask me about **javaScript,HTML,CSS,DSA.**
+- 💬 Ask me about *javaScript,HTML,CSS,DSA.*
 
-- 📫 How to reach me **mrunagabhane@gmail.com**
+- 📫 How to reach me *mrunagabhane@gmail.com*
 
 
 - My portfolio  https://mrunaligabhane.github.io/
