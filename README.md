@@ -35,7 +35,7 @@
  [![GitHub Streak](https://streak-stats.demolab.com?user=MrunaliGabhane&hide_border=true)](https://git.io/streak-stats)
  
   <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mrunaligabhane&show_icons=true&locale=en&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="github-readme-streak-stats" alt="MrunaliGabhane" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=mrunaligabhane&show_icons=true&locale=en&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=4c35756" alt="github-readme-streak-stats" alt="MrunaliGabhane" />
   </a>
 </div>
 
